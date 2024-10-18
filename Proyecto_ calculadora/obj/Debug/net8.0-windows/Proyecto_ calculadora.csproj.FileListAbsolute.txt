@@ -1,0 +1,17 @@
+C:\Users\epica\source\repos\Proyecto_ calculadora\Proyecto_ calculadora\bin\Debug\net8.0-windows\Proyecto_ calculadora.exe
+C:\Users\epica\source\repos\Proyecto_ calculadora\Proyecto_ calculadora\bin\Debug\net8.0-windows\Proyecto_ calculadora.deps.json
+C:\Users\epica\source\repos\Proyecto_ calculadora\Proyecto_ calculadora\bin\Debug\net8.0-windows\Proyecto_ calculadora.runtimeconfig.json
+C:\Users\epica\source\repos\Proyecto_ calculadora\Proyecto_ calculadora\bin\Debug\net8.0-windows\Proyecto_ calculadora.dll
+C:\Users\epica\source\repos\Proyecto_ calculadora\Proyecto_ calculadora\bin\Debug\net8.0-windows\Proyecto_ calculadora.pdb
+C:\Users\epica\source\repos\Proyecto_ calculadora\Proyecto_ calculadora\obj\Debug\net8.0-windows\Proyecto__calculadora.Form1.resources
+C:\Users\epica\source\repos\Proyecto_ calculadora\Proyecto_ calculadora\obj\Debug\net8.0-windows\Proyecto_ calculadora.csproj.GenerateResource.cache
+C:\Users\epica\source\repos\Proyecto_ calculadora\Proyecto_ calculadora\obj\Debug\net8.0-windows\Proyecto_ calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\epica\source\repos\Proyecto_ calculadora\Proyecto_ calculadora\obj\Debug\net8.0-windows\Proyecto_ calculadora.AssemblyInfoInputs.cache
+C:\Users\epica\source\repos\Proyecto_ calculadora\Proyecto_ calculadora\obj\Debug\net8.0-windows\Proyecto_ calculadora.AssemblyInfo.cs
+C:\Users\epica\source\repos\Proyecto_ calculadora\Proyecto_ calculadora\obj\Debug\net8.0-windows\Proyecto_ calculadora.csproj.CoreCompileInputs.cache
+C:\Users\epica\source\repos\Proyecto_ calculadora\Proyecto_ calculadora\obj\Debug\net8.0-windows\Proyecto_ calculadora.dll
+C:\Users\epica\source\repos\Proyecto_ calculadora\Proyecto_ calculadora\obj\Debug\net8.0-windows\refint\Proyecto_ calculadora.dll
+C:\Users\epica\source\repos\Proyecto_ calculadora\Proyecto_ calculadora\obj\Debug\net8.0-windows\Proyecto_ calculadora.pdb
+C:\Users\epica\source\repos\Proyecto_ calculadora\Proyecto_ calculadora\obj\Debug\net8.0-windows\Proyecto_ calculadora.genruntimeconfig.cache
+C:\Users\epica\source\repos\Proyecto_ calculadora\Proyecto_ calculadora\obj\Debug\net8.0-windows\ref\Proyecto_ calculadora.dll
+C:\Users\epica\source\repos\Proyecto_ calculadora\Proyecto_ calculadora\obj\Debug\net8.0-windows\Proyecto__calculadora.Properties.Resources.resources
