@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,9 +8,9 @@ namespace Proyecto__calculadora
 {
     internal class Resta
     {
-        public static float restars( float n1, float n2)
+        public static double restars( double n1, double n2)
         {
-            float total = n1-n2;
+            double total = n1-n2;
             return total;
         }
     }
